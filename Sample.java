@@ -1,6 +1,6 @@
 
 
-import java.lang.util.*;
+import java.util.*;
 
 
 class Sample{
